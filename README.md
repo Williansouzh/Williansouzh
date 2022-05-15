@@ -1,4 +1,4 @@
-## Oiii eu sou a Willian Souza, criadora de conteúdo de programação e tecnologia!
+## Olá eu me chamo Willian e sou estudante de programação e tecnologia
 
 <div align="center">
   <a href="https://github.com/Williansouzh">
