@@ -1,4 +1,4 @@
-## Olá eu me chamo Willian e sou estudante de programação e tecnologia
+## Hello there, i am William a programming student
 
 <div align="center">
   <a href="https://github.com/Williansouzh">
